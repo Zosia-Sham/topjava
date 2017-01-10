@@ -1,0 +1,25 @@
+2016-12-16 19:34:26,039 DEBUG UserServlet [UserServlet.java:14] redirect to userList
+2016-12-16 19:34:54,064 DEBUG UserServlet [UserServlet.java:14] redirect to userList
+2016-12-16 19:35:37,189 DEBUG UserServlet [UserServlet.java:14] redirect to userList
+2016-12-16 19:36:08,377 DEBUG UserServlet [UserServlet.java:14] redirect to userList
+2016-12-23 16:47:54,858 INFO  MealServlet [MealServlet.java:49] getAll
+2016-12-23 17:09:14,687 INFO  MealServlet [MealServlet.java:49] getAll
+2016-12-23 17:17:01,614 INFO  MealServlet [MealServlet.java:49] getAll
+2016-12-23 17:23:14,112 INFO  MealServlet [MealServlet.java:49] getAll
+2016-12-23 17:23:20,452 INFO  MealServlet [MealServlet.java:49] getAll
+2016-12-23 17:23:41,941 INFO  MealServlet [MealServlet.java:49] getAll
+2016-12-23 17:26:36,554 INFO  MealServlet [MealServlet.java:49] getAll
+2016-12-23 17:26:42,162 DEBUG UserServlet [UserServlet.java:14] redirect to userList
+2017-01-10 13:31:18,168 INFO  MealServlet [MealServlet.java:49] getAll
+2017-01-10 13:32:08,602 INFO  MealServlet [MealServlet.java:39] Create Meal{id=null, dateTime=2017-01-10T13:31, description='Поздний завтрак', calories=1000}
+2017-01-10 13:32:08,617 INFO  MealServlet [MealServlet.java:49] getAll
+2017-01-10 13:32:22,959 INFO  MealServlet [MealServlet.java:39] Update Meal{id=7, dateTime=2017-01-10T13:31, description='Поздний завтра', calories=1000}
+2017-01-10 13:32:22,962 INFO  MealServlet [MealServlet.java:49] getAll
+2017-01-10 13:32:27,934 INFO  MealServlet [MealServlet.java:39] Update Meal{id=7, dateTime=2017-01-10T13:31, description='Поздний завтрак', calories=1000}
+2017-01-10 13:32:27,938 INFO  MealServlet [MealServlet.java:49] getAll
+2017-01-10 13:32:30,060 INFO  MealServlet [MealServlet.java:55] Delete 7
+2017-01-10 13:32:30,064 INFO  MealServlet [MealServlet.java:49] getAll
+2017-01-10 13:32:34,228 DEBUG UserServlet [UserServlet.java:14] redirect to userList
+2017-01-10 13:34:28,147 INFO  MealServlet [MealServlet.java:49] getAll
+2017-01-10 13:34:37,943 INFO  MealServlet [MealServlet.java:39] Create Meal{id=null, dateTime=2017-01-10T13:34, description='', calories=1000}
+2017-01-10 13:34:37,991 INFO  MealServlet [MealServlet.java:49] getAll
